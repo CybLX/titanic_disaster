@@ -1,4 +1,5 @@
 # Titanic Challenge
+![Titanic_plans](https://github.com/user-attachments/assets/b742ee8a-9487-4ac1-8c76-89d003b71e4c)
 
 ## Overview
 This project explores the “Titanic” dataset, originally published by Kaggle. The dataset contains information about the passengers aboard the ill-fated RMS Titanic, which sank in 1912. It is widely used for testing machine learning algorithms and visualizations (such as bar charts and heatmaps). Each row represents a passenger and includes details such as their age, gender, class, fare paid, and whether they survived the disaster.
